@@ -19,13 +19,13 @@
       "link_redirect": "https://"
     }
   ],
-  "Morex":
+  "More":
   [
     {
       "id":1,
-      "title":"judul aplikasi",
-      "image":"link gambar aplikasi playstore",
-      "link":"link aplikasi playstore"
+      "title":"WhatsApp Messenger",
+      "image":"https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
     }
   ],
 
