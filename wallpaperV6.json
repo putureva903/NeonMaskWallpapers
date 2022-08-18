@@ -102,8 +102,14 @@
       "image": "https://i.pinimg.com/564x/95/f0/06/95f006c29630dc990e4009f11a98f61f.jpg"
 
     },
-	{
+    {
       "id": 5,
+      "name_category": "People",
+      "image": "https://i.pinimg.com/564x/9c/2d/d2/9c2dd2ea2d70ce961c58a69dcfdbd8d7.jpg"
+
+    },
+    {
+      "id": 6,
       "name_category": "People",
       "image": "https://i.pinimg.com/564x/9c/2d/d2/9c2dd2ea2d70ce961c58a69dcfdbd8d7.jpg"
 
