@@ -1,5 +1,6 @@
 {
-  "Ads": [
+  "Ads": 
+	[
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
@@ -29,7 +30,8 @@
     }
   ],
 
-  "Categories": [
+  "Categories":
+	[
     {
       "id": 1,
       "name_category": "Neon",
