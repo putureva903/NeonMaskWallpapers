@@ -19,61 +19,13 @@
       "link_redirect": "https://"
     }
   ],
-  "More":
+  "Morex":
   [
     {
       "id":1,
       "title":"WhatsApp Messenger",
       "image":"https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":4,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":5,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":6,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":7,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":8,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    },
-    {
-      "id":9,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
 
@@ -669,25 +621,25 @@
       "id":97,
       "name_category": "Mask",
       "title":"Mask Wallpapers",
-      "image":"imagelink"
+      "image":"https://i.pinimg.com/564x/99/af/5e/99af5ecf83b75292e2f0bcc6421476ea.jpg"
     },
 	{
       "id":98,
       "name_category": "Mask",
       "title":"Mask Wallpapers",
-      "image":"imagelink"
+      "image":"https://i.pinimg.com/564x/9e/cf/57/9ecf5770fe733a9ced94f440421adc76.jpg"
     },
 	{
       "id":99,
       "name_category": "Mask",
       "title":"Mask Wallpapers",
-      "image":"imagelink"
+      "image":"https://i.pinimg.com/564x/dd/75/3c/dd753cbb4e65e51fd3f9219d8a8c654e.jpg"
     },
 	{
       "id":100,
       "name_category": "Mask",
       "title":"Mask Wallpapers",
-      "image":"imagelink"
+      "image":"https://i.pinimg.com/564x/57/d3/1f/57d31fd6e5bff164cbd0d351244ede85.jpg"
     },
 	{
       "id":1,
