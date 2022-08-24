@@ -7,7 +7,7 @@
       "main_ads_intertitial":"ca-app-pub-2631643370199907/1671963028",
       "backup_ads_banner":"a97d389bc3b48178",
       "backup_ads_intertitial":"f337b5d5de74d012",
-      "interval_intertitial":1,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
