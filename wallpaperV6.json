@@ -29,7 +29,7 @@
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Mask",
@@ -39,7 +39,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
@@ -640,66 +640,6 @@
       "name_category": "Mask",
       "title":"Mask Wallpapers",
       "image":"https://i.pinimg.com/564x/57/d3/1f/57d31fd6e5bff164cbd0d351244ede85.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":2,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":3,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":4,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":5,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":6,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":7,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":8,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":9,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":10,
-      "name_category": "Mask",
-      "title":"Mask Wallpapers",
-      "image":"imagelink"
     }
 	
     
