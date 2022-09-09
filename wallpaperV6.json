@@ -59,6 +59,12 @@
       "name_category": "People",
       "image": "https://i.pinimg.com/564x/45/1b/54/451b54cb1a5cd93a784b76742d25dbf6.jpg"
 
+    },
+	{
+      "id": 5,
+      "name_category": "Neon",
+      "image": "https://i.pinimg.com/564x/75/9b/8b/759b8b5f0074ee44715c936461a1df9f.jpg"
+
     }
 	
   ],
@@ -807,7 +813,7 @@
       "id":124,
       "name_category": "Anime",
       "title":"Anime Wallpapers",
-      "image":"https://i.pinimg.com/564x/b0/26/12/b02612c04b3b0e4f38befb1e1f493900.jpg"
+      "image":"https://i.pinimg.com/564x/c7/c7/e7/c7c7e78cb4c445f752fe06453b6a0fc3.jpg"
     },
 	{
       "id":125,
@@ -1375,15 +1381,123 @@
     },
 	{
       "id":219,
-      "name_category": "People",
-      "title":"People Wallpapers",
-      "image":"link"
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/13/65/0e/13650e0b717565c0ed0b729e43dc10d7.jpg"
     },
 	{
       "id":220,
-      "name_category": "People",
-      "title":"People Wallpapers",
-      "image":"link"
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/75/9b/8b/759b8b5f0074ee44715c936461a1df9f.jpg"
+    },
+	{
+      "id":221,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/15/54/42/15544235d8ba53a1cdfe20377f872e81.jpg"
+    },
+	{
+      "id":222,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/82/8d/a3/828da3063633120754c57060eed4f034.jpg"
+    },
+	{
+      "id":223,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/be/0a/cc/be0acc12b25671c5e27b31380e69816c.jpg"
+    },
+	{
+      "id":224,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/c9/0d/91/c90d91426ae3384073474a42ab38f695.jpg"
+    },
+	{
+      "id":225,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/ca/b2/3d/cab23d7b235a002c4d4e1f47d6edd7a9.jpg"
+    },
+	{
+      "id":226,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/2b/ea/60/2bea60d2f91e1d2555e7034463e26fcf.jpg"
+    },
+	{
+      "id":227,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/c2/a8/72/c2a872b2543251d793357b4eebeac94a.jpg"
+    },
+	{
+      "id":228,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/736x/07/f9/28/07f928159fb073d86dbbfa5e92ea8cb1.jpg"
+    },
+	{
+      "id":229,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/e8/cb/92/e8cb921b6fd790d091a0a29d450e0d89.jpg"
+    },
+	{
+      "id":230,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/ef/0a/9c/ef0a9c1acd1450185242392961a7ca03.jpg"
+    },
+	{
+      "id":231,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/e1/6f/7d/e16f7de8ae8551ba39f85ea93083f6c3.jpg"
+    },
+	{
+      "id":232,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/91/8d/3d/918d3d731736a4bf9b85599432fc3688.jpg"
+    },
+	{
+      "id":233,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/736x/3a/92/8a/3a928ab62bf9bdbdf6b32fd19e8c035c.jpg"
+    },
+	{
+      "id":234,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/fb/a7/e9/fba7e90aae11ba301fe88f9da2a35875.jpg"
+    },
+	{
+      "id":235,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/a3/9d/29/a39d298331c61d641c040669a1a6ae00.jpg"
+    },
+	{
+      "id":236,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/0b/b1/77/0bb1777c2ac314dbfb5146d6e7facfb2.jpg"
+    },
+	{
+      "id":237,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/dd/76/d0/dd76d0bc08d6ecd9140ab4d2ffcc1485.jpg"
+    },
+	{
+      "id":238,
+      "name_category": "Neon",
+      "title":"Neon Wallpapers",
+      "image":"https://i.pinimg.com/564x/ca/79/93/ca79930f2983429eafcfdb254190b905.jpg"
     }
 	
 	
